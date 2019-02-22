@@ -1,0 +1,32 @@
+/*
+Theme Name:     Newspaper 7 Child theme
+Theme URI: 		http://themeforest.net/user/tagDiv/portfolio
+Description:    Child theme made by tagDiv
+Author:         tagDiv
+Author URI: 	http://themeforest.net/user/tagDiv/portfolio
+Template:       Newspaper
+Version:        7.7c
+*/
+
+
+/*  ----------------------------------------------------------------------------
+    This file will load automatically when the child theme is active. You can use it
+    for custom CSS.
+*/
+
+.td-category-title-holder .entry-title.td-page-title {
+    font-family: 'Orbitron' !important;
+    font-size: 80px;
+    line-height: 80px;
+    font-weight: 700;
+}
+
+.td_category_template_6 .td-category-header {
+    background-image: url('../Rocket Reference/images/blueprint-background.png');
+    background-position: center;
+    opacity: 0.9;
+}
+
+.td_category_template_6 .td-category-pulldown-filter {
+    background-color: rgba(35, 57, 91, 1)
+}
