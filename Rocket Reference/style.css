@@ -30,3 +30,18 @@ Version:        7.7c
 .td_category_template_6 .td-category-pulldown-filter {
     background-color: rgba(35, 57, 91, 1)
 }
+
+.td_block_big_grid_fl_3 .td-big-grid-post .entry-title a, h3 {
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Oswald';
+    letter-spacing: 2px;
+}
+
+.td_block_text_with_title {
+    margin-bottom: 44px;
+}
+
+.td_block_template_1 .block-title {
+    margin-bottom: 14px;
+}
